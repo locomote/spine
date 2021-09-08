@@ -26,3 +26,5 @@
   }
   load(window.dependencySrc);
 })();
+
+window.module = {};
